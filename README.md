@@ -3,4 +3,4 @@
 
 [Internet_w46/2020- Rawgraph](https://danielaromero1.github.io/infovis/w46_rawgraph.html)
 
-[Internet w46/2020 - Flourish](https://danielaromero1.github.io/infovis/w46_flourish.html
+[Internet_w46/2020 - Flourish](https://danielaromero1.github.io/infovis/w46_flourish.html)
