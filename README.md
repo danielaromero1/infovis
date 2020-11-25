@@ -4,3 +4,7 @@
 [Internet_w46/2020- Rawgraph](https://danielaromero1.github.io/infovis/w46_rawgraph.html)
 
 [Internet_w46/2020 - Flourish](https://danielaromero1.github.io/infovis/w46_flourish.html)
+
+#Trabajo Práctico: Compras en Pandemia
+
+[TP_ComprasPandemia](https://danielaromero1.github.io/infovis/TP_ComprasPandemia.html)
