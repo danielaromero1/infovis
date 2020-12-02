@@ -8,3 +8,5 @@
 # Trabajo Práctico: Compras en Pandemia - Flourish
 
 [TP_ComprasPandemia](https://danielaromero1.github.io/infovis/TP_ComprasPandemia.html)
+
+[ComprasEnPandemia_Paired](https://github.com/danielaromero1/infovis/blob/gh-pages/ComprasEnPandemia_Paired.html)
